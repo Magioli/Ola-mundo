@@ -10,8 +10,9 @@ Testando a linguagem MarkDown abaixo:
 ### Nível 3...
 
 Podemos ***misturar*** as configurações <br>
-Fazendo listas:
 ***
+Fazendo listas:
+
 Lista ordenada
 1. Item 1
 1. Item 2
